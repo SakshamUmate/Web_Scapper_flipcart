@@ -1,0 +1,102 @@
+2024-01-05 18:44:26,788 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-05 18:44:26,788 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-05 18:44:39,142 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:44:39] "GET / HTTP/1.1" 200 -
+2024-01-05 18:44:39,343 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:44:39] "GET /static/css/main.css HTTP/1.1" 200 -
+2024-01-05 18:44:39,343 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:44:39] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-01-05 18:44:39,374 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:44:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-05 18:44:55,007 root INFO name
+2024-01-05 18:44:55,007 root INFO Ratings
+2024-01-05 18:44:55,008 root INFO cmmentHeading
+2024-01-05 18:44:55,008 root ERROR 'NoneType' object has no attribute 'div'
+2024-01-05 18:44:55,009 root INFO My finall Result [{'Product': 'iphone10_Fourth_result', 'Name': 'Sunil Kumar', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awsm camera \U0001f44d\U0001f3fb\U0001f44d\U0001f3fb'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Thank you flikart and supercom net for the genuine deals...'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Anku Kumar', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Nice phone'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice camera quality'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Sourav Kumar', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Awesome just like a Performance beast.Best ever OLED screen with Top notch Performance Backed by A11Bionic Chipset.Battery life is average.Supb daylight Shots On this'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Nitesh Raikar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Totally insane \U0001f60d\U0001f60d\U0001f60d'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Dhinesh R', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'You’re going to be an apple fan after this purchase.'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'this phone is only for iphone lovers'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Excellent phone'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Loved to have it :) Great device.'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': 'Sorry NO Ratings for this Product \U0001f647', 'CommentHead': 'NO comment Heading', 'Comment': 'Loved to have it :) Great device.'}]
+2024-01-05 18:44:55,012 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:44:55] "POST /review HTTP/1.1" 200 -
+2024-01-05 18:44:55,040 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:44:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2024-01-05 18:44:55,042 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:44:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-01-05 18:45:30,472 root INFO name
+2024-01-05 18:45:30,472 root INFO Ratings
+2024-01-05 18:45:30,472 root INFO cmmentHeading
+2024-01-05 18:45:30,472 root ERROR 'NoneType' object has no attribute 'div'
+2024-01-05 18:45:30,472 root INFO My finall Result [{'Product': 'iphone10_Fourth_result', 'Name': 'Sunil Kumar', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awsm camera \U0001f44d\U0001f3fb\U0001f44d\U0001f3fb'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Thank you flikart and supercom net for the genuine deals...'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Anku Kumar', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Nice phone'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice camera quality'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Sourav Kumar', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Awesome just like a Performance beast.Best ever OLED screen with Top notch Performance Backed by A11Bionic Chipset.Battery life is average.Supb daylight Shots On this'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Nitesh Raikar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Totally insane \U0001f60d\U0001f60d\U0001f60d'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Dhinesh R', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'You’re going to be an apple fan after this purchase.'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'this phone is only for iphone lovers'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Excellent phone'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Loved to have it :) Great device.'}, {'Product': 'iphone10_Fourth_result', 'Name': 'Flipkart Customer', 'Rating': 'Sorry NO Ratings for this Product \U0001f647', 'CommentHead': 'NO comment Heading', 'Comment': 'Loved to have it :) Great device.'}]
+2024-01-05 18:45:30,473 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:45:30] "POST /review HTTP/1.1" 200 -
+2024-01-05 18:45:30,494 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:45:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2024-01-05 18:45:30,495 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:45:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-01-05 18:49:05,167 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-05 18:49:05,167 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-05 18:51:39,988 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-05 18:51:39,988 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-05 18:51:52,817 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:51:52] "GET / HTTP/1.1" 200 -
+2024-01-05 18:51:52,965 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:51:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-01-05 18:51:52,966 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:51:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2024-01-05 18:54:52,854 root INFO My finall Result []
+2024-01-05 18:54:52,855 root ERROR write() argument must be str, not list
+2024-01-05 18:54:52,864 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:54:52] "POST /review HTTP/1.1" 200 -
+2024-01-05 18:54:54,002 root INFO My finall Result []
+2024-01-05 18:54:54,002 root ERROR write() argument must be str, not list
+2024-01-05 18:54:54,002 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:54:54] "POST /review HTTP/1.1" 200 -
+2024-01-05 18:54:55,165 root INFO My finall Result []
+2024-01-05 18:54:55,165 root ERROR write() argument must be str, not list
+2024-01-05 18:54:55,166 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 18:54:55] "POST /review HTTP/1.1" 200 -
+2024-01-05 18:59:57,591 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-05 18:59:57,591 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-05 19:00:04,627 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 19:00:04] "GET / HTTP/1.1" 200 -
+2024-01-05 19:00:04,754 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 19:00:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2024-01-05 19:00:04,754 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 19:00:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-01-05 19:00:28,911 root ERROR HTTP Error 429: Too Many Requests
+2024-01-05 19:00:28,912 werkzeug INFO 127.0.0.1 - - [05/Jan/2024 19:00:28] "POST /review HTTP/1.1" 200 -
+2024-01-05 19:13:16,549 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-05 19:13:16,549 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-05 19:17:43,719 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-05 19:17:43,719 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-05 19:18:05,241 werkzeug INFO 10.106.8.226 - - [05/Jan/2024 19:18:05] "GET / HTTP/1.1" 200 -
+2024-01-05 19:18:05,352 werkzeug INFO 10.106.8.226 - - [05/Jan/2024 19:18:05] "GET /static/css/main.css HTTP/1.1" 200 -
+2024-01-05 19:18:05,358 werkzeug INFO 10.106.8.226 - - [05/Jan/2024 19:18:05] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-01-05 19:18:05,393 werkzeug INFO 10.106.8.226 - - [05/Jan/2024 19:18:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-05 19:18:11,745 root INFO name
+2024-01-05 19:18:11,745 root INFO Ratings
+2024-01-05 19:18:11,745 root INFO cmmentHeading
+2024-01-05 19:18:11,745 root ERROR 'NoneType' object has no attribute 'div'
+2024-01-05 19:18:12,151 root INFO My finall Result is Saved in MongoDB 
+2024-01-05 19:18:12,155 werkzeug INFO 10.106.8.226 - - [05/Jan/2024 19:18:12] "POST /review HTTP/1.1" 200 -
+2024-01-05 19:18:12,578 root INFO name
+2024-01-05 19:18:12,578 root INFO Ratings
+2024-01-05 19:18:12,578 root INFO cmmentHeading
+2024-01-05 19:18:12,578 root ERROR 'NoneType' object has no attribute 'div'
+2024-01-05 19:18:12,624 root INFO My finall Result is Saved in MongoDB 
+2024-01-05 19:18:12,625 werkzeug INFO 10.106.8.226 - - [05/Jan/2024 19:18:12] "POST /review HTTP/1.1" 200 -
+2024-01-05 19:18:12,647 werkzeug INFO 10.106.8.226 - - [05/Jan/2024 19:18:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2024-01-05 19:18:12,648 werkzeug INFO 10.106.8.226 - - [05/Jan/2024 19:18:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-01-06 11:49:46,917 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.156.122:5000
+2024-01-06 11:49:46,917 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-06 11:49:53,449 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:49:53] "GET / HTTP/1.1" 200 -
+2024-01-06 11:49:53,579 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:49:53] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-01-06 11:49:53,579 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:49:53] "GET /static/css/main.css HTTP/1.1" 200 -
+2024-01-06 11:49:53,657 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:49:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-06 11:50:05,249 root INFO name
+2024-01-06 11:50:05,249 root INFO Ratings
+2024-01-06 11:50:05,250 root INFO cmmentHeading
+2024-01-06 11:50:05,250 root ERROR 'NoneType' object has no attribute 'div'
+2024-01-06 11:50:05,500 root INFO My finall Result is Saved in MongoDB 
+2024-01-06 11:50:05,504 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:50:05] "POST /review HTTP/1.1" 200 -
+2024-01-06 11:50:05,532 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:50:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2024-01-06 11:50:05,534 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:50:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
