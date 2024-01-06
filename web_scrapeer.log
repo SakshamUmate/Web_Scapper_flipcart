@@ -100,3 +100,8 @@
 2024-01-06 11:50:05,504 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:50:05] "POST /review HTTP/1.1" 200 -
 2024-01-06 11:50:05,532 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:50:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
 2024-01-06 11:50:05,534 werkzeug INFO 127.0.0.1 - - [06/Jan/2024 11:50:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-01-06 12:13:02,187 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.156.122:5000
+2024-01-06 12:13:02,187 werkzeug INFO [33mPress CTRL+C to quit[0m
